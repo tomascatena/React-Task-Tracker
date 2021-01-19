@@ -1,7 +1,6 @@
 # CRUD App made with React
 
-Based on a React Crash Course from Brad Traversy
-https://www.youtube.com/watch?v=w7ejDZ8SWv8
+Based on a [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8) from Brad Traversy.
 
 # Getting Started with Create React App
 
